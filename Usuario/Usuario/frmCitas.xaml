@@ -1,0 +1,217 @@
+﻿<Window x:Class="Usuario.frmCitas"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Usuario"
+               xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="Gestión de Citas" Height="750" Width="1100" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="33*"/>
+            <ColumnDefinition Width="167*"/>
+        </Grid.ColumnDefinitions>
+
+        <Rectangle Grid.ColumnSpan="2" Height="101" VerticalAlignment="Top">
+            <Rectangle.Fill>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                    <GradientStop Color="#B1C9EF" Offset="0.0"/>
+                    <GradientStop Color="#D5DEEF" Offset="1.0"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+
+        <Label Content="Gestión de Citas" 
+            HorizontalAlignment="Left" 
+            VerticalAlignment="Top" 
+            FontSize="40" 
+            Margin="10,35,0,0"
+            Foreground="BLACK" Grid.ColumnSpan="2"/>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Width="1000" Grid.ColumnSpan="2" Margin="0,-710,0,0">
+            <Button Name="btnPacientes" Content="Pacientes" Background="#395886" BorderBrush="white" Click="btnPacientes_Click" />
+            <Button Name="btnHistorialesMedicos" Content="Historiales Medicos" Background="#395886" BorderBrush="white" Click="btnHistorialesMedicos_Click" />
+            <Button Name="btnMedicos" Content="Medicos" Background="#395886" BorderBrush="white" Click="btnMedicos_Click"/>
+            <Button Name="btnConsultas" Content="Consultas" Background="#395886" BorderBrush="white" Click="btnConsultas_Click" />
+            <Button Name="btnRecetas" Content="Recetas" Background="#395886" BorderBrush="white" Click="btnRecetas_Click" />
+            <Button Name="btnCitas" Content="Citas" Background="#D5DEEF" BorderBrush="white"/>
+            <Button Name="btnExamenes" Content="Examenes" Background="#395886" BorderBrush="white" Click="btnExamenes_Click" />
+            <Button Name="btnReportes" Content="Reportes" Background="#395886" BorderBrush="white" />
+            <Button Name="btnUsuarios" Content="Usuarios" Background="#395886" BorderBrush="white" Click="btnUsuarios_Click"/>
+        </StackPanel>
+
+        <GroupBox Header="Detalles de la Cita" Margin="0,101,155,311" Padding="15" Grid.ColumnSpan="2">
+            <GroupBox.HeaderTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding}" Foreground="White" FontSize="16" FontWeight="Bold" Padding="5"/>
+                </DataTemplate>
+            </GroupBox.HeaderTemplate>
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Row="0" Grid.Column="0" Orientation="Horizontal" Margin="0,0,10,10">
+                    <Label Content="Médico" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="Gray"/>
+                    <ComboBox Width="200" x:Name="cmbMedico"
+                     IsEditable="True" 
+                     IsTextSearchEnabled="True"
+                     StaysOpenOnEdit="True"
+                     materialDesign:HintAssist.Hint="Seleccionar médico" 
+                     DisplayMemberPath="Medico" 
+                     SelectedValuePath="MedicoID" SelectionChanged="cmbMedico_SelectionChanged"/>
+                </StackPanel>
+
+                <StackPanel Grid.Row="0" Grid.Column="1" Orientation="Horizontal" Margin="0,0,10,10">
+                    <Label Content="Paciente" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="Gray"/>
+                    <ComboBox Width="200" x:Name="cmbPaciente"
+                     IsEditable="True" 
+                     IsTextSearchEnabled="True"
+                     StaysOpenOnEdit="True"
+                     materialDesign:HintAssist.Hint="Seleccionar paciente"
+           
+                     DisplayMemberPath="Paciente" 
+                     SelectedValuePath="PacienteID"/>
+                </StackPanel>
+
+
+                <StackPanel Grid.Row="1" Grid.Column="0" Orientation="Horizontal" Margin="0,0,10,10">
+                    <Label Content="Fecha" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="Gray"/>
+                    <DatePicker x:Name="dpFecha" Width="200" Margin="0,0,10,0" SelectedDateChanged="dpFecha_SelectedDateChanged"
+                             />
+                </StackPanel>
+
+                <StackPanel Grid.Row="1" Grid.Column="1" Orientation="Horizontal" Margin="0,0,10,56" Grid.RowSpan="2">
+                    <Label Content="Hora" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="Gray"/>
+                    <ComboBox x:Name="cmbHora" Width="100" Margin="0,0,10,0"
+                           IsEnabled="False"
+                           DisplayMemberPath="Hora"
+                           SelectedValuePath="Hora">
+
+                    </ComboBox>
+                </StackPanel>
+
+                <StackPanel Grid.Row="2" Grid.Column="0" Orientation="Horizontal" Margin="0,0,10,10">
+                    <Label Content="Duracion" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="Gray"/>
+                    <ComboBox x:Name="cmbDuracion" Width="100" Margin="0,0,10,0"
+                           >
+                        <ComboBoxItem Content="30 min" Tag="30"/>
+                        <ComboBoxItem Content="60 min" Tag="60"/>
+
+                    </ComboBox>
+                </StackPanel>
+
+                <StackPanel Grid.Row="2" Grid.Column="1" Orientation="Horizontal" Margin="0,0,10,10">
+                    <Label Content="Motivo" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="Gray"/>
+                    <TextBox x:Name="txtMotivo" 
+                  Width="200"
+                  materialDesign:HintAssist.Hint="Motivo de la cita"
+                  Style="{StaticResource MaterialDesignFloatingHintTextBox}" Height="46"
+                          />
+                </StackPanel>
+
+                <StackPanel Grid.Row="3" Grid.Column="0" Orientation="Horizontal" Margin="0,0,10,10">
+                    <Label Content="Consultorio" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="Gray"/>
+                    <ComboBox x:Name="cmbConsultorio" 
+                  Width="200"
+                  materialDesign:HintAssist.Hint="Consultorio"
+                  DisplayMemberPath="NombreConsultorio"
+                  SelectedValuePath="ConsultorioID"/>
+                </StackPanel>
+
+                <StackPanel Grid.Row="3" Grid.Column="1" Orientation="Horizontal" Margin="0,0,10,10">
+                    <Label Content="Comentarios" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="Gray"/>
+                    <TextBox x:Name="txtComentarios" 
+                  Height="45"
+                  Width="200"
+                  materialDesign:HintAssist.Hint="Comentarios"
+                  Style="{StaticResource MaterialDesignFloatingHintTextBox}" AcceptsReturn="True" />
+                </StackPanel>
+
+                <StackPanel Grid.Row="3" Grid.ColumnSpan="2" Orientation="Horizontal" Margin="0,45,10,-39">
+                    <Label Content="Estado" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="Gray"/>
+                    <ComboBox x:Name="cmbEstadoCita" Width="100" Margin="0,0,10,0"
+                              IsEnabled="False"
+                           DisplayMemberPath="EstadoCita"
+                           SelectedValuePath="EstadoCitaID">
+                    </ComboBox>
+                </StackPanel>
+
+                <StackPanel Grid.Row="3" Grid.Column="1" Orientation="Horizontal" Margin="0,27,10,-65">
+                    <Label Content="Especialidad" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="Gray"/>
+                    <ComboBox x:Name="cmbEspecialidad"
+                     IsEditable="False" 
+                     StaysOpenOnEdit="True"
+                     materialDesign:HintAssist.Hint="Seleccionar especialidad" 
+                     DisplayMemberPath="NombreEspecialidad" 
+                     SelectedValuePath="EspecialidadID"/>
+                </StackPanel>
+
+            </Grid>
+        </GroupBox>
+
+        <StackPanel Margin="0,162,0,0" Height="260" VerticalAlignment="Top" HorizontalAlignment="Right" Width="155" Grid.Column="1">
+            <Button x:Name="btnProgramar" Content="Guardar" Background="#395886" BorderBrush="white" Width="130" Click="btnProgramar_Click"/>
+            <Button x:Name="btnCancelar" Content="Cancelar" Background="#395886" BorderBrush="white" Width="130" Margin="10" Click="btnCancelar_Click"/>
+            <Button x:Name="btnReprogramar" Content="Actualizar" Background="#395886" BorderBrush="white" Width="133" Margin="10" Click="btnReprogramar_Click"/>
+            <Button x:Name="btnEliminar" Content="Eliminar" Background="#395886" BorderBrush="white" Width="133" Margin="10" Click="btnEliminar_Click"/>
+            <Button x:Name="btnVisualizar" Content="Ver Agenda" Background="#395886" BorderBrush="white" Width="130" Margin="10" Click="btnVisualizar_Click"/>
+        </StackPanel>
+
+        <GroupBox Header="Agenda de Citas" Margin="0,439,10,0" Padding="15" Grid.ColumnSpan="2">
+            <GroupBox.HeaderTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding}" Foreground="White" FontSize="16" FontWeight="Bold" Padding="5"/>
+                </DataTemplate>
+            </GroupBox.HeaderTemplate>
+
+            <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+                <DataGrid x:Name="dgCitas" AutoGenerateColumns="False" CanUserAddRows="False" SelectionChanged="dgCitas_SelectionChanged">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="ID" Binding="{Binding CitaID}" Visibility="Collapsed"/>
+
+                        <DataGridTextColumn Header="EspecialidadID" Binding="{Binding EspecialidadID}" Visibility="Collapsed"/>
+                        <DataGridTextColumn Header="Especialidad" Binding="{Binding NombreEspecialidad}" IsReadOnly="True"/>
+
+                        <DataGridTextColumn Header="MedicoID" Binding="{Binding MedicoID}" Visibility="Collapsed"/>
+                        <DataGridTextColumn Header="Médico" Binding="{Binding Medico}" IsReadOnly="True"/>
+
+                        <DataGridTextColumn Header="PacienteID" Binding="{Binding PacienteID}" Visibility="Collapsed"/>
+                        <DataGridTextColumn Header="Paciente" Binding="{Binding Paciente}" IsReadOnly="True"/>
+
+                        <DataGridTextColumn Header="Fecha" Binding="{Binding FechaCita, StringFormat='{}{0:dd/MM/yyyy}'}" IsReadOnly="True"/>
+                        <DataGridTextColumn Header="Hora" Binding="{Binding Hora}" IsReadOnly="True"/>
+                        <DataGridTextColumn Header="Duración" Binding="{Binding Duracion}" IsReadOnly="True"/>
+
+                        <DataGridTextColumn Header="ConsultorioID" Binding="{Binding ConsultorioID}" Visibility="Collapsed"/>
+                        <DataGridTextColumn Header="Consultorio" Binding="{Binding NombreConsultorio}" IsReadOnly="True"/>
+
+                        <DataGridTextColumn Header="Motivo" Binding="{Binding MotivoCita}" IsReadOnly="True"/>
+
+                        <DataGridTextColumn Header="EstadoCitaID" Binding="{Binding EstadoCitaID}" Visibility="Collapsed"/>
+                        <DataGridTextColumn Header="Estado" Binding="{Binding EstadoCita}" IsReadOnly="True"/>
+
+                        <DataGridTextColumn Header="Comentarios" Binding="{Binding Comentarios}" IsReadOnly="True"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </ScrollViewer>
+
+        </GroupBox>
+        <Grid>
+            <Button x:Name="btnHome" Height="50" Background="white" Margin="974,9,-906,691" BorderBrush="white" Click="btnHome_Click">
+                <Image Source="Assets/regresar.png" Height="50" Width="60"/>
+            </Button>
+        </Grid>
+    </Grid>
+</Window>

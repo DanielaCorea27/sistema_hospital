@@ -1,0 +1,59 @@
+﻿<Window x:Class="Usuario.frmInicio"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Usuario"
+        mc:Ignorable="d"
+                Title="Menú de Inicio" Height="750" Width="1100" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None">
+
+    <Grid>
+        
+        
+        
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="33*"/>
+            <ColumnDefinition Width="167*"/>
+        </Grid.ColumnDefinitions>
+        <Rectangle Grid.ColumnSpan="2" Margin="0,3,0,617">
+            <Rectangle.Fill>
+                <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1">
+                    <GradientStop Color="#F0F3FA"/>
+                    <GradientStop Color="#D5DEEF" Offset="1"/>
+                    <GradientStop Color="#B1C9EF" Offset="0.5"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Width="1000" Grid.ColumnSpan="2" Margin="0,-690,0,0">
+            <Button Name="btnPacientes" Content="Pacientes" Background="#395886" BorderBrush="white" Click="btnPacientes_Click"/>
+            <Button Name="btnHistorialesMedicos" Content="Historiales Médicos" Background="#395886" BorderBrush="white" Click="btnHistorialesMedicos_Click"/>
+            <Button x:Name="btnMedicos" Content="Médicos" Background="#395886" BorderBrush="white" Click="btnMedicos_Click"/>
+            <Button Name="btnConsultas" Content="Consultas" Background="#395886" BorderBrush="white" Click="btnConsultas_Click"/>
+            <Button Name="btnRecetas" Content="Recetas" Background="#395886" BorderBrush="white" Click="btnRecetas_Click"/>
+            <Button Name="btnCitas" Content="Citas" Background="#395886" BorderBrush="white" Click="btnCitas_Click"/>
+            <Button x:Name="btnExamenes" Content="Examenes" Background="#395886" BorderBrush="white" Click="btnExamenes_Click"/>
+            <Button Name="btnReportes" Content="Reportes" Background="#395886" BorderBrush="white" Click="btnReportes_Click"/>
+            <Button x:Name="btnUsuarios" Content="Usuarios" Background="#395886" BorderBrush="white" Click="btnUsuarios_Click"/>
+            
+        </StackPanel>
+        <Label Content="Menú de Inicio" 
+           HorizontalAlignment="Left" 
+           VerticalAlignment="Top" 
+           FontSize="40" 
+           Margin="10,60,0,0"
+           Foreground="BLACK" Grid.ColumnSpan="2"/>
+        <Grid Grid.ColumnSpan="2">
+            <Label Content="HOSPITAL PLUS" HorizontalAlignment="Center" Margin="0,534,0,0" VerticalAlignment="Top" FontSize="72" FontFamily="Gabriola" Height="107" Width="406"/>
+            <Image Height="500" Margin="-13,107,-13,0" Source="/Assets/fondo.png" VerticalAlignment="Top"/>
+        </Grid>
+
+        <Grid>
+            <Button x:Name="btnHome" Height="50" Background="white" Margin="974,9,-906,691" BorderBrush="white" Click="Logout">
+                <Image Source="Assets/exit.png" Height="50" Width="60"/>
+            </Button>
+        </Grid>
+
+    </Grid>
+</Window>
+

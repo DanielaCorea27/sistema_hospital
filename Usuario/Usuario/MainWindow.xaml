@@ -1,0 +1,57 @@
+﻿<Window x:Class="Usuario.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:Usuario"
+        mc:Ignorable="d"
+                Title="Identificacion de Usuario" Height="500" Width="700" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Grid Cursor="">
+        <Rectangle Height="100" VerticalAlignment="Top" Margin="491,16,119,0" RadiusX="20" RadiusY="20">
+            <Rectangle.Fill>
+                <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1">
+                    <GradientStop Color="#B1C9EF"/>
+                    <GradientStop Color="#8AAEE0" Offset="1"/>
+                    <GradientStop Color="#628ECB" Offset="0.5"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle Height="500" VerticalAlignment="Center" Margin="-50,0,350,0" RadiusX="50" RadiusY="50">
+            <Rectangle.Fill>
+                <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1">
+                    <GradientStop Color="#F0F3FA"/>
+                    <GradientStop Color="#D5DEEF" Offset="1"/>
+                    <GradientStop Color="#B1C9EF" Offset="0.5"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle Width="280" Height="240" Fill="White" VerticalAlignment="Top" Margin="397,160,23,0" RadiusX="10" RadiusY="10">
+            <Rectangle.Effect>
+                <DropShadowEffect BlurRadius="15" Color="#FFBBBBBB" Direction="0" RenderingBias="Quality"/>
+            </Rectangle.Effect>
+
+        </Rectangle>
+        <Grid Width="280" Height="240" Margin="396,160,24,0" VerticalAlignment="Top">
+            <Label Content="LOGIN" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="5" Foreground="Gray" FontSize="18"/>
+            <StackPanel VerticalAlignment="Center" Margin="15">
+                <TextBox x:Name="txtCorreo" 
+                    Margin="0, 10" 
+                    FontSize="18" 
+                    FontFamily="Corbel Light"
+                    materialDesign:HintAssist.Hint="Correo"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
+                <PasswordBox x:Name="txtPassword" 
+                    Margin="0, 10" 
+                    FontSize="18" 
+                    FontFamily="Corbel Light"
+                    materialDesign:HintAssist.Hint="Contraseña"
+                    Style="{StaticResource MaterialDesignFloatingHintPasswordBox}"/>
+            </StackPanel>
+        </Grid>
+        <Button x:Name="btnIngresar" Content="Ingresar" Width="150" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="461,378,0,0" Background="#395886" Click="btnIngresar_Click"/>
+        <Label Content="HOSPITAL PLUS" HorizontalAlignment="Left" Margin="58,378,0,0" VerticalAlignment="Top" FontSize="48" FontFamily="Gabriola"/>
+        <Image Height="353" Margin="-190,57,164,0" Source="/Assets/fondo.png" VerticalAlignment="Top"/>
+        <Image Height="100" Margin="491,20,119,0" Width="90" Source="/Assets/home.png" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
