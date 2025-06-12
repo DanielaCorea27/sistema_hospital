@@ -1,0 +1,157 @@
+﻿<Window x:Class="Usuario.frmAgendarExamen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:Usuario"
+        mc:Ignorable="d"
+        Title="Agendar Exámen" Height="750" Width="1100" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" Loaded="Window_Loaded">
+
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="33*"/>
+            <ColumnDefinition Width="167*"/>
+        </Grid.ColumnDefinitions>
+        <GroupBox Margin="0,60,126,0" Padding="20" Grid.ColumnSpan="2">
+            <StackPanel Margin="-15,0,0,9" Width="990">
+                <StackPanel Orientation="Horizontal" Width="800" Margin="-170,-20,8,8">
+                    <StackPanel Orientation="Horizontal" Width="400" Margin="5,8,8,8">
+                        <TextBox x:Name="txtCodigoPaciente" 
+                            Margin="0,10"
+                            materialDesign:HintAssist.Hint="Código Paciente"
+                            Style="{StaticResource MaterialDesignFloatingHintTextBox}" Width="398" FontSize="14" IsEnabled="False"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Width="400" Margin="5,8,8,8">
+                        <TextBox x:Name="txtCodigoMedico" 
+                            Margin="0,10"
+                            materialDesign:HintAssist.Hint="Código Médico"
+                            Style="{StaticResource MaterialDesignFloatingHintTextBox}" Width="398" FontSize="14" IsEnabled="False"/>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Width="800" Margin="-170,-30,8,8">
+                    <StackPanel Orientation="Horizontal" Width="400" Margin="5,8,8,8">
+                        <TextBox x:Name="txtNombrePaciente" 
+                        Margin="0,10"
+                        materialDesign:HintAssist.Hint="Nombre Paciente"
+                        Style="{StaticResource MaterialDesignFloatingHintTextBox}" Width="398" FontSize="14" IsEnabled="False"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Width="400" Margin="5,8,8,8">
+                        <TextBox x:Name="txtNombreMedico" 
+                        Margin="0,10"
+                        materialDesign:HintAssist.Hint="Nombre Médico"
+                        Style="{StaticResource MaterialDesignFloatingHintTextBox}" Width="398" FontSize="14" IsEnabled="False"/>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Width="800" Margin="-170,-30,8,8">
+                    <StackPanel Orientation="Horizontal" Width="400" Margin="5,8,8,8">
+                        <TextBox x:Name="txtApellidoPaciente" 
+                            Margin="0,10"
+                            materialDesign:HintAssist.Hint="Apellido Paciente"
+                            Style="{StaticResource MaterialDesignFloatingHintTextBox}" Width="398" FontSize="14" IsEnabled="False"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Width="400" Margin="5,8,8,8">
+                        <TextBox x:Name="txtApellidoMedico" 
+                            Margin="0,10"
+                            materialDesign:HintAssist.Hint="Apellido Médico"
+                            Style="{StaticResource MaterialDesignFloatingHintTextBox}" Width="398" FontSize="14" IsEnabled="False"/>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Width="800" Margin="-170,-30,8,8">
+                    <StackPanel Orientation="Horizontal" Width="400" Margin="5,8,8,8">
+                        <TextBox x:Name="txtConsulta" 
+                            Margin="0,10"
+                            materialDesign:HintAssist.Hint="Código Consulta"
+                            Style="{StaticResource MaterialDesignFloatingHintTextBox}" Width="398" FontSize="14" IsEnabled="False"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Width="400" Margin="5,8,8,8">
+                        <Label Content="Fecha Examen" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="Gray" FontSize="14"/>
+                        <DatePicker Width="277" Name="dtFechaExamen"/>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Width="800" Margin="-170,-30,8,8">
+                    <Label Content="Especialidad" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="Gray" FontSize="14"/>
+                    <ComboBox Width="100" x:Name="cmbEspecialidad">
+                    </ComboBox>
+                    <StackPanel Orientation="Horizontal" Width="200" Margin="5,8,8,8">
+                        <Label Content="Tipo Examen" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="Gray" FontSize="14"/>
+                        <ComboBox Width="100" x:Name="cmbTipoExamen">
+                        </ComboBox>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Margin="0,10">
+                    <TextBox x:Name="txtBuscar" 
+    materialDesign:HintAssist.Hint="Buscar Codigo Consulta"
+    Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontSize="14" TextChanged="txtBuscar_TextChanged"/>
+                </StackPanel>
+
+                <Grid Margin="0,20">
+                    <DataGrid x:Name="dgConsultas" AutoGenerateColumns="False" IsReadOnly="True" 
+              SelectionChanged="dgConsultas_SelectionChanged"
+              ScrollViewer.VerticalScrollBarVisibility="Auto">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID Consulta" Binding="{Binding ConsultaID}"/>
+                            <DataGridTextColumn Header="ID" Binding="{Binding PacienteID}"/>
+                            <DataGridTextColumn Header="Nombre Paciente" Binding="{Binding NombrePaciente}"/>
+                            <DataGridTextColumn Header="Apellido Paciente" Binding="{Binding ApellidoPaciente}"/>
+                            <DataGridTextColumn Header="ID" Binding="{Binding MedicoID}"/>
+                            <DataGridTextColumn Header="Nombre Médico" Binding="{Binding NombreMedico}"/>
+                            <DataGridTextColumn Header="Apellido Médico" Binding="{Binding ApellidoMedico}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+
+
+            </StackPanel>
+
+        </GroupBox>
+        <Rectangle Grid.ColumnSpan="2" Margin="0,3,0,638">
+            <Rectangle.Fill>
+                <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1">
+                    <GradientStop Color="#F0F3FA"/>
+                    <GradientStop Color="#D5DEEF" Offset="1"/>
+                    <GradientStop Color="#B1C9EF" Offset="0.5"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Width="1000" Grid.ColumnSpan="2" Margin="0,-710,0,0">
+            <Button Name="btnPacientes" Content="Pacientes" Background="#395886" BorderBrush="white" Click="btnPacientes_Click"/>
+            <Button Name="btnHistorialesMedicos" Content="Historiales Médicos" Background="#395886" BorderBrush="white" Click="btnHistorialesMedicos_Click"/>
+            <Button Name="btnMedicos" Content="Médicos" Background="#395886" BorderBrush="white" Click="btnMedicos_Click"/>
+            <Button Name="btnConsultas" Content="Consultas" Background="#395886" BorderBrush="white" Click="btnConsultas_Click"/>
+            <Button Name="btnRecetas" Content="Recetas" Background="#395886" BorderBrush="white" Click="btnRecetas_Click"/>
+            <Button Name="btnCitas" Content="Citas" Background="#395886" BorderBrush="white" Click="btnCitas_Click"/>
+            <Button Name="btnExamenes" Content="Exámenes" Background="#D5DEEF" BorderBrush="white" Click="btnExamenes_Click" FontWeight="Bold"/>
+            <Button Name="btnReportes" Content="Reportes" Background="#395886" BorderBrush="white"/>
+            <Button x:Name="btnUsuarios" Content="Usuarios" Background="#395886" BorderBrush="white" Click="btnUsuarios_Click" />
+
+        </StackPanel>
+        <Label Content="Agendar Exámenes" 
+           HorizontalAlignment="Left" 
+           VerticalAlignment="Top" 
+           FontSize="40" 
+           Margin="10,35,0,0"
+           Foreground="BLACK" Grid.ColumnSpan="2"/>
+        <Grid>
+            <StackPanel Margin="0,219,-984,0" Height="522" VerticalAlignment="Top" HorizontalAlignment="Right" Width="234">
+                <Button x:Name="btnNewUser" Height="50" Width="90" Background="white" BorderBrush="white" ToolTip="Nuevo usuario" Click="btnNewUser_Click">
+                    <Image Source="Assets/AgregarDoc.png" Width="60"/>
+                </Button>
+                <Button x:Name="btnGuardar" Height="50" Width="90" Background="white" BorderBrush="white" ToolTip="Guardar" Click="btnGuardar_Click">
+                    <Image Source="Assets/save.png" Width="60"/>
+                </Button>
+                <Button x:Name="btnCancelar" Height="50" Width="90" Background="white" BorderBrush="white" ToolTip="Cancelar" Click="btnCancelar_Click">
+                    <Image Source="Assets/actualizar.png" Width="60"/>
+                </Button>
+            </StackPanel>
+        </Grid>
+        <Grid>
+            <Button x:Name="btnHome" Height="50" Background="white" Margin="974,9,-906,691" BorderBrush="white" Click="btnHome_Click">
+                <Image Source="Assets/regresar.png" Height="50" Width="60"/>
+            </Button>
+        </Grid>
+        <Button x:Name="btnRegresar" Content="Regresar" Height="50" Background="#395886" Margin="798,625,0,75" BorderBrush="white" Grid.Column="1" FontSize="20" FontWeight="Bold" Click="btnRegresar_Click"/>
+    </Grid>
+</Window>
+

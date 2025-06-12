@@ -1,0 +1,389 @@
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\Usuario.exe.config
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\Usuario.exe
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\Usuario.pdb
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\MaterialDesignColors.dll
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\System.Data.SqlClient.dll
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\stdole.dll
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\MaterialDesignColors.pdb
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\System.Data.SqlClient.xml
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\obj\Debug\Usuario.csproj.AssemblyReference.cache
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\obj\Debug\frmUsuarios.g.cs
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\obj\Debug\MainWindow.g.cs
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\obj\Debug\App.g.cs
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\obj\Debug\Usuario_MarkupCompile.cache
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\obj\Debug\Usuario_MarkupCompile.lref
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\obj\Debug\App.baml
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\obj\Debug\frmUsuarios.baml
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\obj\Debug\MainWindow.baml
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\obj\Debug\Usuario.g.resources
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\obj\Debug\Usuario.Properties.Resources.resources
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\obj\Debug\Usuario.csproj.GenerateResource.cache
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\obj\Debug\Usuario.csproj.CoreCompileInputs.cache
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\obj\Debug\Usuario.csproj.Up2Date
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\obj\Debug\Usuario.exe
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\obj\Debug\Usuario.pdb
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\obj\Debug\Reports\vsReporte.g.cs
+C:\Users\fjeff\OneDrive\Escritorio\Practicas\Usuario\Usuario\obj\Debug\Reports\vsReporte.baml
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\Usuario.exe.config
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\Usuario.exe
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\Usuario.pdb
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\MaterialDesignColors.dll
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\System.Data.SqlClient.dll
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\MaterialDesignColors.pdb
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\bin\Debug\System.Data.SqlClient.xml
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\obj\Debug\Usuario.csproj.AssemblyReference.cache
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\obj\Debug\frmUsuarios.g.cs
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\obj\Debug\MainWindow.g.cs
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\obj\Debug\Reports\vsReporte.g.cs
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\obj\Debug\App.g.cs
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\obj\Debug\Usuario_MarkupCompile.cache
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\obj\Debug\Usuario_MarkupCompile.lref
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\obj\Debug\App.baml
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\obj\Debug\frmUsuarios.baml
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\obj\Debug\MainWindow.baml
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\obj\Debug\Reports\vsReporte.baml
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\obj\Debug\Usuario.g.resources
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\obj\Debug\Usuario.Properties.Resources.resources
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\obj\Debug\Usuario.csproj.GenerateResource.cache
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\obj\Debug\Usuario.csproj.CoreCompileInputs.cache
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\obj\Debug\Usuario.csproj.Up2Date
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\obj\Debug\Usuario.exe
+C:\Users\bdcomputo\Downloads\Usuario\Usuario\Usuario\obj\Debug\Usuario.pdb
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\Usuario.csproj.AssemblyReference.cache
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmUsuarios.g.cs
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\MainWindow.g.cs
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\Reports\vsReporte.g.cs
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\App.g.cs
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\Usuario_MarkupCompile.cache
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\Usuario_MarkupCompile.lref
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\Usuario.exe
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\Usuario.pdb
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\Usuario.exe.config
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\Usuario.exe
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\Usuario.pdb
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\MaterialDesignColors.dll
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\App.baml
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmUsuarios.baml
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\MainWindow.baml
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\Reports\vsReporte.baml
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\Usuario.g.resources
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\Usuario.Properties.Resources.resources
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\Usuario.csproj.GenerateResource.cache
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\Usuario.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\Usuario.csproj.Up2Date
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmInicio.g.cs
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmMedicos.g.cs
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmInicio.baml
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmMedicos.baml
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmAgendarExamen.g.cs
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmAgendarExamen.baml
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmAgendarExamenNo.g.cs
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmMenuExamen.g.cs
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmRegistrarExamen.g.cs
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmAgendarExamenNo.baml
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmMenuExamen.baml
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmRegistrarExamen.baml
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmExamenesRegistrados.g.cs
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmExamenesRegistrados.baml
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmConsultas.g.cs
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmRegistroConsultas.g.cs
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmConsultas.baml
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmRegistroConsultas.baml
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmPrueba.g.cs
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmRecetas.g.cs
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmPrueba.baml
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmRecetas.baml
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmRegistroRecetas.g.cs
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmRegistroRecetas.baml
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmCitas.g.cs
+C:\Users\Daniela\Downloads\POE\Usuario\Usuario\Usuario\obj\Debug\frmCitas.baml
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\Usuario.exe.config
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\Usuario.exe
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\Usuario.pdb
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\MaterialDesignColors.dll
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\System.Data.SqlClient.dll
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\stdole.dll
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\MaterialDesignColors.pdb
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\bin\Debug\System.Data.SqlClient.xml
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\Usuario.csproj.AssemblyReference.cache
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmAgendarExamen.g.cs
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmAgendarExamenNo.g.cs
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmCitas.g.cs
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmConsultas.g.cs
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmExamenesRegistrados.g.cs
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmInicio.g.cs
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmMedicos.g.cs
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmMenuExamen.g.cs
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmPrueba.g.cs
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmRecetas.g.cs
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmRegistrarExamen.g.cs
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmRegistroConsultas.g.cs
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmRegistroRecetas.g.cs
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmUsuarios.g.cs
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\MainWindow.g.cs
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\Reports\vsReporte.g.cs
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\App.g.cs
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\Usuario_MarkupCompile.cache
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\Usuario_MarkupCompile.lref
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\App.baml
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmAgendarExamen.baml
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmAgendarExamenNo.baml
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmCitas.baml
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmConsultas.baml
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmExamenesRegistrados.baml
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmInicio.baml
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmMedicos.baml
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmMenuExamen.baml
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmPrueba.baml
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmRecetas.baml
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmRegistrarExamen.baml
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmRegistroConsultas.baml
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmRegistroRecetas.baml
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmUsuarios.baml
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\MainWindow.baml
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\Reports\vsReporte.baml
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\Usuario.g.resources
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\Usuario.Properties.Resources.resources
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\Usuario.csproj.GenerateResource.cache
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\Usuario.csproj.CoreCompileInputs.cache
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\Usuario.csproj.Up2Date
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\Usuario.exe
+C:\Users\kari8\OneDrive\Desktop\SQL Databases\Proyecto\Usuario3\Usuario\Usuario\Usuario\obj\Debug\Usuario.pdb
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\Usuario.exe.config
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\Usuario.exe
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\Usuario.pdb
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\MaterialDesignColors.dll
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\System.Data.SqlClient.dll
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\stdole.dll
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\MaterialDesignColors.pdb
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\bin\Debug\System.Data.SqlClient.xml
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\Usuario.csproj.AssemblyReference.cache
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmAgendarExamen.g.cs
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmAgendarExamenNo.g.cs
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmCitas.g.cs
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmConsultas.g.cs
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmExamenesRegistrados.g.cs
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmInicio.g.cs
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmMedicos.g.cs
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmMenuExamen.g.cs
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmPrueba.g.cs
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmRecetas.g.cs
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmRegistrarExamen.g.cs
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmRegistroConsultas.g.cs
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmRegistroRecetas.g.cs
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmUsuarios.g.cs
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\MainWindow.g.cs
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\Reports\vsReporte.g.cs
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\App.g.cs
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\Usuario_MarkupCompile.cache
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\Usuario_MarkupCompile.lref
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\App.baml
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmAgendarExamen.baml
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmAgendarExamenNo.baml
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmCitas.baml
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmConsultas.baml
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmExamenesRegistrados.baml
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmInicio.baml
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmMedicos.baml
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmMenuExamen.baml
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmPrueba.baml
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmRecetas.baml
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmRegistrarExamen.baml
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmRegistroConsultas.baml
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmRegistroRecetas.baml
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmUsuarios.baml
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\MainWindow.baml
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\Reports\vsReporte.baml
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\Usuario.g.resources
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\Usuario.Properties.Resources.resources
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\Usuario.csproj.GenerateResource.cache
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\Usuario.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\Usuario.csproj.CopyComplete
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\Usuario.exe
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\Usuario.pdb
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmPacientes.g.cs
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmPacientes.baml
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmHistorialPacientes.g.cs
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmHistorialPacientes.baml
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmReportes.g.cs
+C:\Users\DANIEL CASTILLO\OneDrive\Escritorio\Usuario3\Usuario3\Usuario\Usuario\Usuario\obj\Debug\frmReportes.baml
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\Usuario.exe.config
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\Usuario.exe
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\Usuario.pdb
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\MaterialDesignColors.dll
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\Usuario.csproj.AssemblyReference.cache
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmAgendarExamen.g.cs
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmAgendarExamenNo.g.cs
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmCitas.g.cs
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmConsultas.g.cs
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmExamenesRegistrados.g.cs
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmHistorialPacientes.g.cs
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmInicio.g.cs
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmMedicos.g.cs
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmMenuExamen.g.cs
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmPacientes.g.cs
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmPrueba.g.cs
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmRecetas.g.cs
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmRegistrarExamen.g.cs
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmRegistroConsultas.g.cs
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmRegistroRecetas.g.cs
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmReportes.g.cs
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmUsuarios.g.cs
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\MainWindow.g.cs
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\Reports\vsReporte.g.cs
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\App.g.cs
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\Usuario_MarkupCompile.cache
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\Usuario_MarkupCompile.lref
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\App.baml
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmAgendarExamen.baml
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmAgendarExamenNo.baml
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmCitas.baml
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmConsultas.baml
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmExamenesRegistrados.baml
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmHistorialPacientes.baml
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmInicio.baml
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmMedicos.baml
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmMenuExamen.baml
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmPacientes.baml
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmPrueba.baml
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmRecetas.baml
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmRegistrarExamen.baml
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmRegistroConsultas.baml
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmRegistroRecetas.baml
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmReportes.baml
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\frmUsuarios.baml
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\MainWindow.baml
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\Reports\vsReporte.baml
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\Usuario.g.resources
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\Usuario.Properties.Resources.resources
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\Usuario.csproj.GenerateResource.cache
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\Usuario.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\Usuario.csproj.Up2Date
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\Usuario.exe
+C:\Users\Daniela\Downloads\HOSPIPLUS - PROYECTO\Usuario\Usuario\obj\Debug\Usuario.pdb

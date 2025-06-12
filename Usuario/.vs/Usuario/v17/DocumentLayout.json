@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|c:\\users\\daniela\\downloads\\hospiplus - proyecto\\usuario\\usuario\\frmhistorialpacientes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|solutionrelative:usuario\\frmhistorialpacientes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\usuario\\frmhistorialpacientes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|solutionrelative:usuario\\frmhistorialpacientes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\usuario\\frmagendarexamen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|solutionrelative:usuario\\frmagendarexamen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\usuario\\reports\\rptrecetaspacientes.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|solutionrelative:usuario\\reports\\rptrecetaspacientes.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\usuario\\reports\\rptexpedientepaciente.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|solutionrelative:usuario\\reports\\rptexpedientepaciente.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\usuario\\reports\\rptexamenespacientes.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|solutionrelative:usuario\\reports\\rptexamenespacientes.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\usuario\\reports\\rptconsultamedico.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|solutionrelative:usuario\\reports\\rptconsultamedico.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\usuario\\reports\\medicamentos.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|solutionrelative:usuario\\reports\\medicamentos.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\usuario\\reports\\rptrecetas.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|solutionrelative:usuario\\reports\\rptrecetas.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\usuario\\reports\\rptexamenes.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|solutionrelative:usuario\\reports\\rptexamenes.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\usuario\\frmprueba.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|solutionrelative:usuario\\frmprueba.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\usuario\\frmcitas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|solutionrelative:usuario\\frmcitas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\usuario\\frmprueba.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|solutionrelative:usuario\\frmprueba.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\usuario\\frmcitas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|solutionrelative:usuario\\frmcitas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\usuario\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|solutionrelative:usuario\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmHistorialPacientes.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\frmHistorialPacientes.xaml",
+              "RelativeDocumentMoniker": "Usuario\\frmHistorialPacientes.xaml",
+              "ToolTip": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\frmHistorialPacientes.xaml",
+              "RelativeToolTip": "Usuario\\frmHistorialPacientes.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-22T00:48:21.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmHistorialPacientes.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\frmHistorialPacientes.xaml.cs",
+              "RelativeDocumentMoniker": "Usuario\\frmHistorialPacientes.xaml.cs",
+              "ToolTip": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\frmHistorialPacientes.xaml.cs",
+              "RelativeToolTip": "Usuario\\frmHistorialPacientes.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAK8BAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:48:48.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAgendarExamen.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\frmAgendarExamen.xaml",
+              "RelativeDocumentMoniker": "Usuario\\frmAgendarExamen.xaml",
+              "ToolTip": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\frmAgendarExamen.xaml",
+              "RelativeToolTip": "Usuario\\frmAgendarExamen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-21T23:52:23.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "rptRecetasPacientes.rpt",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\Reports\\rptRecetasPacientes.rpt",
+              "RelativeDocumentMoniker": "Usuario\\Reports\\rptRecetasPacientes.rpt",
+              "ToolTip": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\Reports\\rptRecetasPacientes.rpt",
+              "RelativeToolTip": "Usuario\\Reports\\rptRecetasPacientes.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-11-21T23:44:40.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "rptExpedientePaciente.rpt",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\Reports\\rptExpedientePaciente.rpt",
+              "RelativeDocumentMoniker": "Usuario\\Reports\\rptExpedientePaciente.rpt",
+              "ToolTip": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\Reports\\rptExpedientePaciente.rpt",
+              "RelativeToolTip": "Usuario\\Reports\\rptExpedientePaciente.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-11-21T23:43:42.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "rptExamenesPacientes.rpt",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\Reports\\rptExamenesPacientes.rpt",
+              "RelativeDocumentMoniker": "Usuario\\Reports\\rptExamenesPacientes.rpt",
+              "ToolTip": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\Reports\\rptExamenesPacientes.rpt",
+              "RelativeToolTip": "Usuario\\Reports\\rptExamenesPacientes.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-11-21T23:40:48.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "rptConsultaMedico.rpt",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\Reports\\rptConsultaMedico.rpt",
+              "RelativeDocumentMoniker": "Usuario\\Reports\\rptConsultaMedico.rpt",
+              "ToolTip": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\Reports\\rptConsultaMedico.rpt",
+              "RelativeToolTip": "Usuario\\Reports\\rptConsultaMedico.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-11-21T23:40:01.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Medicamentos.rpt",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\Reports\\Medicamentos.rpt",
+              "RelativeDocumentMoniker": "Usuario\\Reports\\Medicamentos.rpt",
+              "ToolTip": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\Reports\\Medicamentos.rpt",
+              "RelativeToolTip": "Usuario\\Reports\\Medicamentos.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-11-21T23:38:57.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "rptRecetas.rpt",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\Reports\\rptRecetas.rpt",
+              "RelativeDocumentMoniker": "Usuario\\Reports\\rptRecetas.rpt",
+              "ToolTip": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\Reports\\rptRecetas.rpt",
+              "RelativeToolTip": "Usuario\\Reports\\rptRecetas.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-11-21T23:38:07.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "rptExamenes.rpt",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\Reports\\rptExamenes.rpt",
+              "RelativeDocumentMoniker": "Usuario\\Reports\\rptExamenes.rpt",
+              "ToolTip": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\Reports\\rptExamenes.rpt",
+              "RelativeToolTip": "Usuario\\Reports\\rptExamenes.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-11-21T23:37:00.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmPrueba.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\frmPrueba.xaml",
+              "RelativeDocumentMoniker": "Usuario\\frmPrueba.xaml",
+              "ToolTip": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\frmPrueba.xaml",
+              "RelativeToolTip": "Usuario\\frmPrueba.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-11T14:38:44.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmPrueba.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\frmPrueba.xaml.cs",
+              "RelativeDocumentMoniker": "Usuario\\frmPrueba.xaml.cs",
+              "ToolTip": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\frmPrueba.xaml.cs",
+              "RelativeToolTip": "Usuario\\frmPrueba.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:38:40.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmCitas.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\frmCitas.xaml.cs",
+              "RelativeDocumentMoniker": "Usuario\\frmCitas.xaml.cs",
+              "ToolTip": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\frmCitas.xaml.cs",
+              "RelativeToolTip": "Usuario\\frmCitas.xaml.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAQwEwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:57:01.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmCitas.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\frmCitas.xaml",
+              "RelativeDocumentMoniker": "Usuario\\frmCitas.xaml",
+              "ToolTip": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\frmCitas.xaml",
+              "RelativeToolTip": "Usuario\\frmCitas.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-11T15:08:04.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Usuario\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Daniela\\Downloads\\HOSPIPLUS - PROYECTO\\Usuario\\Usuario\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Usuario\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAswKEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:39:06.346Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1524,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+﻿<Window x:Class="Usuario.frmHistorialPacientes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Usuario"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="Historial de Pacientes" Height="750" Width="1100" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" Loaded="Window_Loaded">
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="33*"/>
+            <ColumnDefinition Width="167*"/>
+        </Grid.ColumnDefinitions>
+        <GroupBox Margin="0,60,126,0" Padding="20" Grid.ColumnSpan="2">
+
+            <StackPanel Margin="0,0,0,-19" Width="980">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <!-- Primera Columna -->
+                    <StackPanel Grid.Column="0" Margin="0,0,5,0">
+                        <TextBox x:Name="txtPacienteID" 
+                 Margin="0,10"
+                 materialDesign:HintAssist.Hint="Carnet Paciente"
+                 Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+
+                        <TextBox x:Name="txtMotivoConsulta" 
+                 Margin="0,10"
+                 materialDesign:HintAssist.Hint="Motivo de la consulta"
+                 Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+
+                        <TextBox x:Name="txtPadecimientos" 
+                 Margin="0,10"
+                 materialDesign:HintAssist.Hint="Padecimientos"
+                 Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+
+                        <TextBox x:Name="txtTraumatismos" 
+                 Margin="0,10"
+                 materialDesign:HintAssist.Hint="Traumatismos"
+                 Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+
+                        <TextBox x:Name="txtCirugiasPrevias" 
+                 Margin="0,10"
+                 materialDesign:HintAssist.Hint="Cirugias Previas"
+                 Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+
+                        <TextBox x:Name="txtMedicacionActual" 
+                Margin="0,10"
+                materialDesign:HintAssist.Hint="Medicación Actual"
+                Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+                    </StackPanel>
+
+                    <!-- Segunda Columna -->
+                    <StackPanel Grid.Column="1" Margin="5,0,0,0">
+                        <TextBox x:Name="txtAntecedentesFamiliares" 
+                 Margin="0,10"
+                 materialDesign:HintAssist.Hint="Antecedentes Familiares"
+                 Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+
+                        <TextBox x:Name="txtDiscapacidad" 
+                 Margin="0,10"
+                 materialDesign:HintAssist.Hint="Discapacidades"
+                 Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+
+                        <TextBox x:Name="txtAlergia" 
+                 Margin="0,10"
+                 materialDesign:HintAssist.Hint="Alergias"
+                 Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+
+                        <TextBox x:Name="txtEnfermedadCronica" 
+                 Margin="0,10"
+                 materialDesign:HintAssist.Hint="Enfermedades Crónicas"
+                 Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+
+                        <TextBox x:Name="txtObservaciones" 
+                 Margin="0,10"
+                 materialDesign:HintAssist.Hint="Observaciones"
+                 Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+                    </StackPanel>
+                </Grid>
+
+                <!-- Barra de búsqueda -->
+                <StackPanel Margin="0,10">
+                    <TextBox x:Name="txtBuscar" 
+             materialDesign:HintAssist.Hint="Buscar Codigo"
+             Style="{StaticResource MaterialDesignFloatingHintTextBox}" TextChanged="txtBuscar_TextChanged" />
+                </StackPanel>
+
+                <!-- DataGrid para mostrar la lista de médicos -->
+                <StackPanel Orientation="Vertical" Margin="0,20" Height="205" Width="976">
+                    <DataGrid x:Name="dgHistorial" AutoGenerateColumns="False" IsReadOnly="True" Height="178" SelectionChanged="dgHistorial_SelectionChanged">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Codigo" Binding="{Binding ID}" />
+                            <DataGridTextColumn Header="id" Binding="{Binding PacienteID}" />
+                            <DataGridTextColumn Header="Nombre" Binding="{Binding Nombre}" />
+                            <DataGridTextColumn Header="Apellido" Binding="{Binding Apellido}" />
+                            <DataGridTextColumn Header="Motivo Consulta" Binding="{Binding MotivoConsulta}" />
+                            <DataGridTextColumn Header="Padecimientos" Binding="{Binding Padecimientos}" />
+                            <DataGridTextColumn Header="Traumatismos" Binding="{Binding Traumatismos}" />
+                            <DataGridTextColumn Header="Cirugias Previas" Binding="{Binding CirugiasPrevias}" />
+                            <DataGridTextColumn Header="Medicacion Actual" Binding="{Binding MedicacionActual}" />
+                            <DataGridTextColumn Header="Antecedentes Familiares" Binding="{Binding AntecedentesFamiliares}"/>
+                            <DataGridTextColumn Header="Discapacidad" Binding="{Binding Discapacidad}"/>
+                            <DataGridTextColumn Header="Alergia" Binding="{Binding Alergia}"/>
+                            <DataGridTextColumn Header="Enfermedad Cronica" Binding="{Binding EnfermedadCronica}"/>
+                            <DataGridTextColumn Header="Observaciones" Binding="{Binding Observaciones}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </StackPanel>
+            </StackPanel>
+
+
+        </GroupBox>
+        <Rectangle Grid.ColumnSpan="2" Margin="0,3,0,638">
+            <Rectangle.Fill>
+                <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1">
+                    <GradientStop Color="#F0F3FA"/>
+                    <GradientStop Color="#D5DEEF" Offset="1"/>
+                    <GradientStop Color="#B1C9EF" Offset="0.5"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Width="1000" Grid.ColumnSpan="2" Margin="0,-710,0,0">
+            <Button x:Name="btnPacientes" Content="Pacientes" Background="#395886" BorderBrush="white" Click="btnPacientes_Click"/>
+            <Button x:Name="btnHistorialesMedicos" Content="Historiales Médicos" Background="#395886" BorderBrush="white"/>
+            <Button x:Name="btnMedicos" Content="Médicos" Background="#395886" BorderBrush="white" Click="btnMedicos_Click"/>
+            <Button x:Name="btnConsultas" Content="Consultas" Background="#395886" BorderBrush="white" Click="btnConsultas_Click"/>
+            <Button x:Name="btnRecetas" Content="Recetas" Background="#395886" BorderBrush="white" Click="btnRecetas_Click"/>
+            <Button x:Name="btnCitas" Content="Citas" Background="#395886" BorderBrush="white" Click="btnCitas_Click"/>
+            <Button x:Name="btnExamenes" Content="Examenes" Background="#395886" BorderBrush="white" Click="btnExamenes_Click"/>
+            <Button x:Name="btnReportes" Content="Reportes" Background="#395886" BorderBrush="white" Click="btnReportes_Click"/>
+            <Button x:Name="btnUsuarios" Content="Usuarios" Background="#395886" BorderBrush="white" Click="btnUsuarios_Click"/>
+        </StackPanel>
+        <Label Content="Historial Medico" 
+   HorizontalAlignment="Left" 
+   VerticalAlignment="Top" 
+   FontSize="40" 
+   Margin="10,35,0,0"
+   Foreground="BLACK" Grid.ColumnSpan="2"/>
+        <Grid>
+            <StackPanel Margin="0,219,-984,0" Height="522" VerticalAlignment="Top" HorizontalAlignment="Right" Width="240">
+                <Button x:Name="btnAgregar" Height="50" Width="90" Background="white" BorderBrush="white" ToolTip="Guardar" Click="btnAgregar_Click">
+                    <Image Source="Assets/newuser.png" Width="60"/>
+                </Button>
+                <Button x:Name="btnGuardar" Height="50" Width="90" Background="white" BorderBrush="white" ToolTip="Guardar" Click="btnGuardar_Click">
+                    <Image Source="Assets/save.png" Width="60"/>
+                </Button>
+                <Button x:Name="btnEditar" Height="50" Width="90" Background="white" BorderBrush="white" ToolTip="Editar" Click="btnEditar_Click">
+                    <Image Source="Assets/edit.png" Width="60"/>
+                </Button>
+                <Button x:Name="btnCancelar" Height="50" Width="90" Background="white" BorderBrush="white" ToolTip="Cancelar" Click="btnCancelar_Click">
+                    <Image Source="Assets/actualizar.png" Width="60"/>
+                </Button>
+            </StackPanel>
+        </Grid>
+        <Grid>
+            <Button x:Name="btnHome" Height="50" Background="white" Margin="974,9,-906,691" BorderBrush="white" Click="btnHome_Click">
+                <Image Source="Assets/regresar.png" Height="50" Width="60"/>
+            </Button>
+        </Grid>
+
+    </Grid>
+</Window>

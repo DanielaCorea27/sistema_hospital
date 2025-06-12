@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bdcomputo\\Downloads\\Usuario\\Usuario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|c:\\users\\bdcomputo\\downloads\\usuario\\usuario\\usuario\\frmusuarios.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|solutionrelative:usuario\\frmusuarios.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|C:\\Users\\bdcomputo\\Downloads\\Usuario\\Usuario\\usuario\\reports\\vsreporte.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|solutionrelative:usuario\\reports\\vsreporte.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|C:\\Users\\bdcomputo\\Downloads\\Usuario\\Usuario\\usuario\\frmusuarios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|solutionrelative:usuario\\frmusuarios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|c:\\users\\bdcomputo\\downloads\\usuario\\usuario\\usuario\\reports\\rptusuarios.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{A042FE16-6F55-4CD2-8C9A-B448D82782BA}|Usuario\\Usuario.csproj|solutionrelative:usuario\\reports\\rptusuarios.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "rptUsuarios.rpt",
+              "DocumentMoniker": "C:\\Users\\bdcomputo\\Downloads\\Usuario\\Usuario\\Usuario\\Reports\\rptUsuarios.rpt",
+              "RelativeDocumentMoniker": "Usuario\\Reports\\rptUsuarios.rpt",
+              "ToolTip": "C:\\Users\\bdcomputo\\Downloads\\Usuario\\Usuario\\Usuario\\Reports\\rptUsuarios.rpt",
+              "RelativeToolTip": "Usuario\\Reports\\rptUsuarios.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-10-15T18:13:24.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vsReporte.xaml",
+              "DocumentMoniker": "C:\\Users\\bdcomputo\\Downloads\\Usuario\\Usuario\\Usuario\\Reports\\vsReporte.xaml",
+              "RelativeDocumentMoniker": "Usuario\\Reports\\vsReporte.xaml",
+              "ToolTip": "C:\\Users\\bdcomputo\\Downloads\\Usuario\\Usuario\\Usuario\\Reports\\vsReporte.xaml",
+              "RelativeToolTip": "Usuario\\Reports\\vsReporte.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-15T17:50:39.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmUsuarios.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bdcomputo\\Downloads\\Usuario\\Usuario\\Usuario\\frmUsuarios.xaml.cs",
+              "RelativeDocumentMoniker": "Usuario\\frmUsuarios.xaml.cs",
+              "ToolTip": "C:\\Users\\bdcomputo\\Downloads\\Usuario\\Usuario\\Usuario\\frmUsuarios.xaml.cs",
+              "RelativeToolTip": "Usuario\\frmUsuarios.xaml.cs",
+              "ViewState": "AgIAAHwBAAAAAAAAAAAwwIgBAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:24:05.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmUsuarios.xaml",
+              "DocumentMoniker": "C:\\Users\\bdcomputo\\Downloads\\Usuario\\Usuario\\Usuario\\frmUsuarios.xaml",
+              "RelativeDocumentMoniker": "Usuario\\frmUsuarios.xaml",
+              "ToolTip": "C:\\Users\\bdcomputo\\Downloads\\Usuario\\Usuario\\Usuario\\frmUsuarios.xaml",
+              "RelativeToolTip": "Usuario\\frmUsuarios.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T06:49:36.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
